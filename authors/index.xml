@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on taplus</title>
+    <link>https://blog.taplus.me/authors/</link>
+    <description>Recent content in Authors on taplus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https:/taplus.me/&#34;&gt;taplus&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="https://blog.taplus.me/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>example-author</title>
+      <link>https://blog.taplus.me/authors/example-author/</link>
+      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      
+      <guid>https://blog.taplus.me/authors/example-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Authors</title>
+      <link>https://blog.taplus.me/authors/hugo-authors/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.taplus.me/authors/hugo-authors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
