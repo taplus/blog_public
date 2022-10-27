@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on taplus</title>
-    <link>https://blog.taplus.me/tags/emoji/</link>
+    <link>https://taplus.github.io/tags/emoji/</link>
     <description>Recent content in emoji on taplus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https:/taplus.me/&#34;&gt;taplus&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.taplus.me/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://taplus.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://blog.taplus.me/posts/emoji-support/</link>
+      <link>https://taplus.github.io/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.taplus.me/posts/emoji-support/</guid>
+      <guid>https://taplus.github.io/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

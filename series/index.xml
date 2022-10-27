@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on taplus</title>
-    <link>https://blog.taplus.me/series/</link>
+    <link>https://taplus.github.io/series/</link>
     <description>Recent content in Series on taplus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https:/taplus.me/&#34;&gt;taplus&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.taplus.me/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://taplus.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>https://blog.taplus.me/series/themes-guide/</link>
+      <link>https://taplus.github.io/series/themes-guide/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.taplus.me/series/themes-guide/</guid>
+      <guid>https://taplus.github.io/series/themes-guide/</guid>
       <description></description>
     </item>
     
