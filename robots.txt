@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tannat.me/sitemap.xml
